@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Lab | Dicts, Sets, and Tuples
+# Lab | Dicts, Sets, and Tuples 
 
 ## Introduction
 
